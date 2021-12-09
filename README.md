@@ -46,6 +46,7 @@ Tag v1.2.5 | Tag v2.2.4 | Tag v5.4.0_cm3 | Tag v1.9.1 (and following, if any, ti
 Tag v1.2.6 | Tag v2.2.4 | Tag v5.4.0_cm3 | Tag v1.9.2 (and following, if any, till HAL tag)
 Tag v1.2.7 | Tag v2.2.5 | Tag v5.4.0_cm3 | Tag v1.9.3 (and following, if any, till HAL tag)
 Tag v1.2.7 | Tag v2.2.5 | Tag v5.4.0_cm3 | Tag v1.9.3 (and following, if any, till HAL tag)
+Tag v1.2.7 | Tag v2.2.5 | Tag v5.4.0_cm3 | Tag v1.9.3 (and following, if any, till HAL tag)
 
 The full **STM32CubeF2** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeF2).
 
