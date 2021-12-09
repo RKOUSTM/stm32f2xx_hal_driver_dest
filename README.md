@@ -44,6 +44,7 @@ Tag v1.2.3 | Tag v2.2.2 | Tag v5.4.0_cm3 | Tag v1.8.0 (and following, if any, ti
 Tag v1.2.4 | Tag v2.2.3 | Tag v5.4.0_cm3 | Tag v1.9.0 (and following, if any, till HAL tag)
 Tag v1.2.5 | Tag v2.2.4 | Tag v5.4.0_cm3 | Tag v1.9.1 (and following, if any, till HAL tag)
 Tag v1.2.6 | Tag v2.2.4 | Tag v5.4.0_cm3 | Tag v1.9.2 (and following, if any, till HAL tag)
+Tag v1.2.6 | Tag v2.2.4 | Tag v5.4.0_cm3 | Tag v1.9.2 (and following, if any, till HAL tag)
 Tag v1.2.7 | Tag v2.2.5 | Tag v5.4.0_cm3 | Tag v1.9.3 (and following, if any, till HAL tag)
 Tag v1.2.7 | Tag v2.2.5 | Tag v5.4.0_cm3 | Tag v1.9.3 (and following, if any, till HAL tag)
 Tag v1.2.7 | Tag v2.2.5 | Tag v5.4.0_cm3 | Tag v1.9.3 (and following, if any, till HAL tag)
