@@ -10,7 +10,7 @@
   *
   @verbatim
   ==============================================================================
-                    ##### EXTI Peripheral features #####
+                    ## EXTI Peripheral features ##
   ==============================================================================
   [..]
     (+) Each Exti line can be configured within this driver.
